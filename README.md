@@ -1,2 +1,2 @@
 # newrepo
-My new repository
+Hello its my README file.
